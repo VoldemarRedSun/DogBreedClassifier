@@ -1,4 +1,3 @@
-/datasets
-/predictions
-/saved_models
 /.idea
+/saved_models/*
+/datasets/*
